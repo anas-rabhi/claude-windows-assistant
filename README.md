@@ -1,8 +1,8 @@
 # Claude Windows Assistant
 
-This is an interactive command line windows assistant powered by Claude 3.5. The work is (very) inspired from [claude-engineer](https://github.com/Doriandarko/claude-engineer/) - Doriandarko (thank you 😀). The main difference is that this assistant has only 2 tools. One tool that allows to write and execute python code to do any task on the computer and the second tool is an LLM. I have been using claude 3.5 for a while now and the quality of code is very advanced and that's why I thought that giving to claude the entire control of a windows computer could be very powerfull... Or risky 😅
+This is an interactive command line Windows assistant powered by Claude 3.5. The work is heavily inspired by [claude-engineer (Doriandarko)](https://github.com/Doriandarko/claude-engineer/) (thank you 😀). The main difference is that this assistant has only two tools: one tool allows writing and executing Python code to perform any task on the computer, and the second tool is an LLM. I have been using Claude 3.5 for a while now, and the quality of its code is very advanced. That's why I thought that giving Claude full control of a Windows computer could be very powerful... or risky 😅
 
-This repo it's an early stage and I am still experimenting. I am using Claude 3.5 sonnet through Bedrock API for now. 
+This repo is in an early stage, and I am still experimenting. I am using Claude 3.5 sonnet through the Bedrock API for now.
 
 ## Small demo
 
