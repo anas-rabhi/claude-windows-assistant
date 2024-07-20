@@ -5,8 +5,8 @@ This is an interactive command line windows assistant powered by Claude 3.5. The
 This repo it's an early stage and I am still experimenting. I am using Claude 3.5 sonnet through Bedrock API for now. 
 
 ## Small demo
-![](demo.mp4)
 
+https://github.com/user-attachments/assets/abe5e599-f30f-45ee-9078-c2d463cfcc3c
 
 ## Quick start
 
