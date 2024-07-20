@@ -5,9 +5,8 @@ This is an interactive command line windows assistant powered by Claude 3.5. The
 This repo it's an early stage and I am still experimenting. I am using Claude 3.5 sonnet through Bedrock API for now. 
 
 ## Small demo
-<video width="320" height="240" controls>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+![](demo.mp4)
+
 
 ## Quick start
 
