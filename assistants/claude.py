@@ -54,7 +54,7 @@ class Claude:
         
         if len(self.tools_list)>0:
             response = self.bedrock.converse(
-                modelId="anthropic.claude-3-sonnet-20240229-v1:0",
+                modelId="anthropic.claude-3-5-sonnet-20240620-v1:0",
                 messages=self.history,
                 inferenceConfig={
                     "maxTokens": self.max_tokens,
@@ -69,7 +69,7 @@ class Claude:
             self.history.append(response['output']['message'])
         else:
             response = self.bedrock.converse(
-            modelId="anthropic.claude-3-sonnet-20240229-v1:0",
+            modelId="anthropic.claude-3-5-sonnet-20240620-v1:0",
             messages=self.history,
             inferenceConfig={
                 "maxTokens": self.max_tokens,
